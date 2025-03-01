@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @heimansfeldmit1n
 - 👀 I’m interested in Scouting and Handball... If I am not working to get better at my job as a sysadming ;D
-- 🌱 I’m currently learning C and Javascript in my freetime and at work I am intensively working with poweshell and VCenter 
 - 💞️ I’m looking to collaborate on nothing
